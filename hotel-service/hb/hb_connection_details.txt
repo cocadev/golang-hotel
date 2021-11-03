@@ -1,0 +1,8 @@
+
+
+doc & spec :  https://developer.hotelbeds.com/docs/read/apitude_booking
+
+APIKEY                  : h55jva9hu38jkpgc3xgk8ges
+SECRETKEY               : vxMbEBDBAx
+search eand point       : https://api.test.hotelbeds.com/hotel-api/1.0/hotels
+hotel content end point : https://api.test.hotelbeds.com/hotel-content-api/1.0
